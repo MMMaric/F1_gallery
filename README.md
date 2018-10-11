@@ -1,4 +1,4 @@
-# f1-gallery
+# F1 gallery
 
 --> About : Formula One Gallery with pictures.
 
