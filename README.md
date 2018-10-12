@@ -1,6 +1,6 @@
 # F1 gallery
 
---> About : Formula One Gallery with pictures.
+--> About : Formula One gallery website with pictures.
 
 --> Language used: 
 
