@@ -2,7 +2,7 @@
 
 --> About : Formula One gallery website with pictures.
 
---> Language used: 
+--> Technologies used: 
 
     1. HTML
     2. CSS
