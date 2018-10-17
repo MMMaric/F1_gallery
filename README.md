@@ -1,14 +1,14 @@
 # F1 gallery
 
---> About : Formula One gallery website with pictures.
+---> About : Formula One gallery website with pictures.
 
---> Technologies used: 
+---> Technologies used: 
 
     1. HTML
     2. CSS
     3. Bootstrap
     
-<b>--> How to use:</b> 
+<b>---> How to use:</b> 
 
     1. Download ZIP file or clone it into your computer.
     2. Right click on index.html 
