@@ -1,8 +1,8 @@
 # F1 gallery
 
----> About : Formula One gallery website with pictures.
+<b>---> About : </b>Formula One gallery website with pictures.
 
----> Technologies used: 
+<b>---> Technologies used: </b>
 
     1. HTML
     2. CSS
