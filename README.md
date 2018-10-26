@@ -14,7 +14,7 @@ These instructions will get you a copy of the project up and running on your loc
     2. CSS
     3. Bootstrap
     
-<b>---> How to use:</b> 
+<b>---> How to use: </b> 
 
     1. Download ZIP file or clone it into your computer.
     2. Right click on index.html 
